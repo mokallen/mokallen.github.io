@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/meow.jpg
+image: img/cat.jpg
 title: "Meow"
 date: 2023-01-13
 published: true
