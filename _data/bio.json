@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mónika Allen",
-    "label": "Student",
+    "label": "Undergraduate Student",
     "picture": "https://github.com/mokallen.png",
     "email": "monikak@hawaii.edu",
     "phone": "808-853-8141",
@@ -29,13 +29,13 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Management Information Systems (expected Fall, 2023)",
+      "area": "Management Information Systems (expected Fall, 2024)",
       "studyType": "BBA",
       "startDate": "2021",
       "endDate": "Present",
