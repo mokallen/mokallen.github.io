@@ -4,7 +4,7 @@ type: project
 image: img/cat.jpg
 title: "Meow"
 date: 2023-01-13
-published: true
+published: false
 labels:
   - Cats
   - Entertainment
