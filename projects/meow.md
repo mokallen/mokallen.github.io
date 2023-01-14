@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/meow.jpg
 title: "Meow"
 date: 2023-01-13
 published: true
