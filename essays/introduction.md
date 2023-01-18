@@ -9,7 +9,7 @@ labels:
   - Introduction
 ---
 
-## Why did I choose MIS?
+## Why MIS?
 
 I decided to major in MIS because I value working in a people-oriented environment in addition to learning high technical skills. MIS is the study of technology, people, organizations, and the relationships among them. It is an integrative field that develops the communication bridge between the worlds of business and technology. I was previously a computer science student, but I quickly found that I was much more interested in learning how to use programs to solve problems rather than developing them from scratch. While I would have never imagined myself to be a business student, I’ve really enjoyed the experiences I’ve had and find that it suits me better!
 
